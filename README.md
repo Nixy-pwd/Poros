@@ -1,4 +1,4 @@
-# Poros
+# Poros — Stateful AI Job Search and Application Agent Skill
 
 **Find a way. Follow it through.**
 
